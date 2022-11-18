@@ -5,7 +5,6 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:gh-page": "ng build --output-path dist --base-href /liu-zhang-web/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "test:cov": "ng test --code-coverage"
